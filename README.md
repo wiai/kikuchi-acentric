@@ -1,4 +1,5 @@
 # Kikuchi Diffraction Effects of Non-Centrosymmetric Crystal Structures
+[![DOI](https://zenodo.org/badge/306294285.svg)](https://zenodo.org/badge/latestdoi/306294285)
 
 ## CoSi 
 
