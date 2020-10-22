@@ -6,8 +6,8 @@
 
 **__Absolute Structure from Scanning Electron Microscopy__**  
 Ulrich Burkhardt, Horst Borrmann, Philip Moll, Marcus Schmidt, Yuri Grin, Aimo Winkelmann   
-Scientific Reports 10, 4065 (2020) (Open Access)   
-[DOI: 10.1038/s41598-020-59854-y](https://doi.org/10.1038/s41598-020-59854-y)  
+Scientific Reports 10, 4065 (2020)  
+[DOI: 10.1038/s41598-020-59854-y](https://doi.org/10.1038/s41598-020-59854-y) (Open Access)   
 See also: [Supplementary Information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-59854-y/MediaObjects/41598_2020_59854_MOESM1_ESM.docx)
 
 
