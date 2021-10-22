@@ -95,12 +95,13 @@ Chirality mapping of polycrystalline Mn.
 
 ## Tellurium and Selenium
 
-### Literature 
+### Literature  
 
 **__Fixing Left and Right: Assignment of Chiral Elemental Crystal Structures using Kikuchi Diffraction__**  
 Aimo Winkelmann,  Grzegorz Cios, Tomasz Tokarski, Piotr Bała, Yuri Grin, Ulrich Burkhardt   
 arXiv:2011.14422, Nov 2020   
 [https://arxiv.org/abs/2011.14422](https://arxiv.org/abs/2011.14422)   
+[pdf](pdf/Winkelmann_Kikuchi_Chirality_arxiv_updated_2021.pdf)   
 
 ### Crystal Structure
 
