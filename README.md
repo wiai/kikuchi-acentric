@@ -39,8 +39,13 @@ Experimental (top) and simulated (bottom) Kikuchi patterns measured from inversi
 
 ### Literature 
 
-**__Assignment of enantiomorphs for the chiral allotrope &beta;-Mn by diffraction methods__**  
+**__Fixing Left and Right: Assignment of Chiral Elemental Crystal Structures using Kikuchi Diffraction__**  
 Ulrich Burkhardt, Aimo Winkelmann, Horst Borrmann, Andreea Dumitriu, Markus König, Grzegorz Cios, Yuri Grin   
+[arXiv:2011.14422](https://arxiv.org/abs/2011.14422)   
+
+
+**__Assignment of enantiomorphs for the chiral allotrope &beta;-Mn by diffraction methods__**  
+Aimo Winkelmann,  Grzegorz Cios, Tomasz Tokarski, Piotr Bała, Yuri Grin, Ulrich Burkhardt   
 Science Advances 2021 May 14;7(20):eabg0868.   
 [DOI: 10.1126/sciadv.abg0868](https://doi.org/10.1126/sciadv.abg0868) (Open Access)   
 
@@ -64,7 +69,7 @@ The feature marked by the oval is analyzed by profile plots in the manuscript.
 Chirality mapping of polycrystalline Mn. 
 (a) qualitative orientation grain contrast image based on the differential backscattered electron signal from the EBSD detector, 
 (b) inverse pole figure map (IPF-Z) of the &beta;-Mn orientation data, (c) mean correlation coefficient relative to simulations,
-(d) observed change of the correlation coefficient for simulated patterns of the two possible &beta;-Mn enantiomorphs relatuve to the experimental pattern.
+(d) observed change of the correlation coefficient for simulated patterns of the two possible &beta;-Mn enantiomorphs relative to the experimental pattern.
 
 
 ![Mn Chirality Maps](img/Mn/AD0013_maps4_sm.png)
