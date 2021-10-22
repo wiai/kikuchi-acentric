@@ -51,6 +51,16 @@ The feature marked by the oval is analyzed by profile plots in the manuscript.
 
 ![Mn 111 20kV](img/Mn/Mn111_20kV_SIM_EXP_MARK_HORZ.gif)
 
+### Chirality Mapping
+
+Chirality mapping of polycrystalline Mn. 
+(a) qualitative orientation grain contrast image based on the differential backscattered electron signal from the EBSD detector, 
+(b) inverse pole figure map (IPF-Z) of the &beta;-Mn orientation data,  
+(c) mean correlation coefficient relative to simulations,
+(d) observed change of the correlation coefficient for the two possible enantiomorphs.
+
+
+![Mn Chirality Maps](img/Mn/AD0013_maps4_sm.png)
 
 
 ## Tellurium and Selenium
