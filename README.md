@@ -1,12 +1,28 @@
-# Kikuchi Diffraction Effects of Non-Centrosymmetric Crystals: Chirality, Polarity, Absolute Structure
+# Kikuchi Diffraction Effects of Non-Centrosymmetric Crystals: Polarity, Chirality, Absolute Structure
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4118076.svg)](https://doi.org/10.5281/zenodo.4118076)
 
 ## Contents
 
+[GaP Polarity](#gap-polarity)  
 [CoSi Chirality](#cosi)   
 [&beta;-Mn Chirality](#manganese-chirality)   
 [Te and Se Chirality](#tellurium-and-selenium)  
-[GaP Polarity](#gap-polarity)   
+ 
+
+
+## GaP Polarity
+
+In a kinematic model, Friedel's Law is valid and the diffraction pattern looks like there is a center of symmetry in the crystal structure. 
+The presence of a 4-fold roto-inversion axis in GaP is not visible in a kinematic diffraction pattern, i.e. rotation by 90 degrees around [001] does not change the pattern.
+The polarity of the [111] direction in GaP [111] cannot be assigned, i.e. [111] and the opposite direction [-1-1-1] are equivalent in kinematic theory. 
+
+![GaP kinematical Kikuchi model](img/GaP/GaP_kinematic.gif)
+
+Dynamical Kikuchi diffraction is sensitive to the presence of a 4-fold roto-inversion axis in GaP. 
+The directions [111] can be disciminated from the opposite direction [-1-1-1], polarity can be assigned. 
+Rotation by 90 degrees around [001] switches the asymmetry in the (111) bands.
+
+![GaP dynamical Kikuchi simulation](img/GaP/GaP_dynamical.gif)
 
 
 ## CoSi
@@ -101,18 +117,6 @@ Comparison of an experimental Kikuchi pattern measured from a Se crystallite at 
 
 ![Se 15kV](img/Se/Se15kV_chirality.gif)
 
-## GaP Polarity
 
-In a kinematic model, Friedel's Law is valid and the diffraction pattern looks like there is a center of symmetry in the crystal structure. 
-The presence of a 4-fold roto-inversion axis in GaP is not visible in a kinematic diffraction pattern, i.e. rotation by 90 degrees around [001] does not change the pattern.
-The polarity of the [111] direction in GaP [111] cannot be assigned, i.e. [111] and the opposite direction [-1-1-1] are equivalent in kinematic theory. 
-
-![GaP kinematical Kikuchi model](img/GaP/GaP_kinematic.gif)
-
-Dynamical Kikuchi diffraction is sensitive to the presence of a 4-fold roto-inversion axis in GaP. 
-The directions [111] can be disciminated from the opposite direction [-1-1-1], polarity can be assigned. 
-Rotation by 90 degrees around [001] switches the asymmetry in the (111) bands.
-
-![GaP dynamical Kikuchi simulation](img/GaP/GaP_dynamical.gif)
 
 
