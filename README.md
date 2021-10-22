@@ -59,6 +59,7 @@ Experimental (top) and simulated (bottom) Kikuchi patterns measured from inversi
 Aimo Winkelmann,  Grzegorz Cios, Tomasz Tokarski, Piotr Bała, Yuri Grin, Ulrich Burkhardt   
 arXiv:2011.14422, Nov 2020   
 [https://arxiv.org/abs/2011.14422](https://arxiv.org/abs/2011.14422)   
+[pdf](pdf/Winkelmann_Kikuchi_Chirality_arxiv_updated_2021.pdf)   
 
 
 **__Assignment of enantiomorphs for the chiral allotrope &beta;-Mn by diffraction methods__**   
