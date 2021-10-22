@@ -41,7 +41,8 @@ Experimental (top) and simulated (bottom) Kikuchi patterns measured from inversi
 
 **__Fixing Left and Right: Assignment of Chiral Elemental Crystal Structures using Kikuchi Diffraction__**  
 Ulrich Burkhardt, Aimo Winkelmann, Horst Borrmann, Andreea Dumitriu, Markus König, Grzegorz Cios, Yuri Grin   
-[arXiv:2011.14422](https://arxiv.org/abs/2011.14422)   
+arXiv:2011.14422, Nov 2020...
+[arXiv:2011.14422,](https://arxiv.org/abs/2011.14422)   
 
 
 **__Assignment of enantiomorphs for the chiral allotrope &beta;-Mn by diffraction methods__**  
